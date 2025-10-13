@@ -1,2 +1,3 @@
 import pandas
-pandas.read_csv()
+print(math.sqrt(16)) 
+print(dir(math))  #it import everthing present in math package
