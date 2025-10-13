@@ -35,5 +35,5 @@ print("Drevide of x and y is :",x/y)
 
 s = "Hello Narendra "
 # print(s[4])
-print(s[0:4])
+print(s[0:5])
 print(s.replace("Hello","Hii"))
