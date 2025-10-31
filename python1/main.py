@@ -1,1 +1,3 @@
-print("hi")
+import narendra
+
+narendra.welcome()
