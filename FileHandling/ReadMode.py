@@ -20,3 +20,11 @@ f = open("myfile.txt", "r")
 lines = f.readlines()
 f.close()
 print(lines)
+
+
+#  Read Mode use with — it closes automatically file:
+
+with open('myfile.txt','r') as file:
+  text = file.read()
+  print(text)
+
