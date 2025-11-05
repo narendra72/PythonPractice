@@ -15,5 +15,6 @@ avg = lambda a,b,c: a+b+c/3
 print(avg(2,4,6))
 
 
+# No need to define function name 
 lambda a: a*a
 print(5)
