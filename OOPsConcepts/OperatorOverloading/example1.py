@@ -4,7 +4,7 @@ class mat:
     self.b = b
 
   def __add__(self,x):
-    return mat(self.a + x.a , self.b + x.b)
+    return mat(self.a + x.a , self.b + x.b)   # return as class name 
 
 m1 = mat(2,6)
 m2 = mat(4,8)
