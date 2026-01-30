@@ -8,9 +8,9 @@ This repository contains my Python learning journey with daily practice codes an
 ## 📘 About This Repository
 
 This repository is created to:
-- Practice Python programming
-- Improve logic and problem-solving skills
-- Revise concepts for interviews and exams
+- Practice Python programming concepts
+- Improve logic & problem-solving skills
+- Revise topics for exams and interviews
 - Track my Python learning journey
 
 ---
@@ -32,7 +32,7 @@ This repository is created to:
 - Set  
 - Dictionary  
 
-### 🔹 Intermediate Concepts
+### 🔹 Intermediate Python
 - Recursion  
 - File Handling  
 - Exception Handling  
@@ -42,8 +42,8 @@ This repository is created to:
 - Walrus Operator  
 
 ### 🔹 Advanced Python
-- OOP Concepts  
-- super() Keyword  
+- Object Oriented Programming (OOP)  
+- `super()` Keyword  
 - Dunder (Magic) Methods  
 - Enumerate Function  
 - Generators  
@@ -55,28 +55,29 @@ This repository is created to:
 
 ---
 
-## 📁 Folder Structure
+## 📁 Repository Structure
 
+```text
 python-practice/
 │
-├── ComparisonOp/ # Comparison operator examples
-├── DunderMethods/ # Magic methods
-├── EnumerateFunction/ # enumerate() examples
-├── Exercises/ # Practice questions
-├── FileHandling/ # File handling programs
-├── FunctionCaching/ # Function caching examples
-├── Generator/ # Generator examples
-├── LambdaFunction/ # Lambda functions
-├── MultiProcessing/ # Multiprocessing programs
-├── Multithreading/ # Multithreading programs
-├── OOPsConcepts/ # OOP concepts
-├── OSModule/ # OS module programs
-├── RequestModule/ # Requests module examples
-├── ShutilModule/ # Shutil module usage
-├── SuperKeyword/ # super keyword examples
-├── TimeModule/ # Time module practice
-├── WalrusOperator/ # Walrus operator examples
-├── python1/ # Basic Python practice
+├── ComparisonOp/          # Comparison operator examples
+├── DunderMethods/         # Magic (dunder) methods
+├── EnumerateFunction/     # enumerate() function examples
+├── Exercises/             # Practice questions
+├── FileHandling/          # File handling programs
+├── FunctionCaching/       # Function caching examples
+├── Generator/             # Generator examples
+├── LambdaFunction/        # Lambda function programs
+├── MultiProcessing/       # Multiprocessing programs
+├── Multithreading/        # Multithreading programs
+├── OOPsConcepts/          # OOP concepts
+├── OSModule/              # OS module programs
+├── RequestModule/         # Requests module examples
+├── ShutilModule/          # Shutil module usage
+├── SuperKeyword/          # super keyword examples
+├── TimeModule/            # Time module practice
+├── WalrusOperator/        # Walrus operator examples
+├── python1/               # Basic Python practice
 │
 ├── CustomErr.py
 ├── Dictionary.py
