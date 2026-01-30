@@ -734,12 +734,14 @@ version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
     { name = "pandas" },
+    { name = "requests" },
     { name = "twilio" },
 ]
 
 [package.metadata]
 requires-dist = [
     { name = "pandas", specifier = ">=2.3.3" },
+    { name = "requests", specifier = ">=2.32.5" },
     { name = "twilio", specifier = ">=9.9.0" },
 ]
 
